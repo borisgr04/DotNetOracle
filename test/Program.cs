@@ -30,8 +30,9 @@ namespace test
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         { 
-            var ora_conn = "User Id=hr;Password=hr;Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = localhost)(PORT = 1522)))(CONNECT_DATA =(SERVICE_NAME = xe)))";
-            optionsBuilder.UseOracle(ora_conn);
+            //Configurar Cadena de Conexión
+            var oraConn = "User Id=hr;Password=hr;Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = localhost)(PORT = 1522)))(CONNECT_DATA =(SERVICE_NAME = xe)))";
+            optionsBuilder.UseOracle(oraConn);
         }
     }
 }
