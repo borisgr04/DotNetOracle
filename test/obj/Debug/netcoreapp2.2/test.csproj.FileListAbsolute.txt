@@ -1,0 +1,11 @@
+G:\2019\Upc\Agile\OracleCore\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
+G:\2019\Upc\Agile\OracleCore\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+G:\2019\Upc\Agile\OracleCore\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+G:\2019\Upc\Agile\OracleCore\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+G:\2019\Upc\Agile\OracleCore\test\bin\Debug\netcoreapp2.2\test.deps.json
+G:\2019\Upc\Agile\OracleCore\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+G:\2019\Upc\Agile\OracleCore\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+G:\2019\Upc\Agile\OracleCore\test\bin\Debug\netcoreapp2.2\test.dll
+G:\2019\Upc\Agile\OracleCore\test\bin\Debug\netcoreapp2.2\test.pdb
+G:\2019\Upc\Agile\OracleCore\test\obj\Debug\netcoreapp2.2\test.dll
+G:\2019\Upc\Agile\OracleCore\test\obj\Debug\netcoreapp2.2\test.pdb
